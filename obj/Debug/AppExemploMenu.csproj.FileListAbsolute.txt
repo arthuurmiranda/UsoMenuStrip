@@ -1,0 +1,13 @@
+H:\2022\VISUAL STUDIO\AppExemploMenu\bin\Debug\AppExemploMenu.exe.config
+H:\2022\VISUAL STUDIO\AppExemploMenu\bin\Debug\AppExemploMenu.exe
+H:\2022\VISUAL STUDIO\AppExemploMenu\bin\Debug\AppExemploMenu.pdb
+H:\2022\VISUAL STUDIO\AppExemploMenu\obj\Debug\AppExemploMenu.csproj.AssemblyReference.cache
+H:\2022\VISUAL STUDIO\AppExemploMenu\obj\Debug\AppExemploMenu.csproj.SuggestedBindingRedirects.cache
+H:\2022\VISUAL STUDIO\AppExemploMenu\obj\Debug\AppExemploMenu.FrmAmarelo.resources
+H:\2022\VISUAL STUDIO\AppExemploMenu\obj\Debug\AppExemploMenu.FrmAzul.resources
+H:\2022\VISUAL STUDIO\AppExemploMenu\obj\Debug\AppExemploMenu.FrmVermelho.resources
+H:\2022\VISUAL STUDIO\AppExemploMenu\obj\Debug\AppExemploMenu.Properties.Resources.resources
+H:\2022\VISUAL STUDIO\AppExemploMenu\obj\Debug\AppExemploMenu.csproj.GenerateResource.cache
+H:\2022\VISUAL STUDIO\AppExemploMenu\obj\Debug\AppExemploMenu.csproj.CoreCompileInputs.cache
+H:\2022\VISUAL STUDIO\AppExemploMenu\obj\Debug\AppExemploMenu.exe
+H:\2022\VISUAL STUDIO\AppExemploMenu\obj\Debug\AppExemploMenu.pdb
